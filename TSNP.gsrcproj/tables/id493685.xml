@@ -1,10 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
-<table version="1.000000" name="BodyCount" numRows="2" numCols="1" flags="" tableType="">
+<table version="1.000000" name="BodyCount" numRows="7" numCols="1" flags="" tableType="">
     <rows>
         <row id="0" name="Enemies Alive"/>
         <row id="1" name="Enemies Dead"/>
+        <row id="2" name="EnemyWave"/>
+        <row id="3" name="EnemyHealth"/>
+        <row id="4" name="Enemy Speed"/>
+        <row id="5" name="GuardHealth"/>
+        <row id="6" name=""/>
     </rows>
     <columns>
-        <column id="0" name="" type="2" readonly="1">10,5</column>
+        <column id="0" name="" type="2" readonly="1">10,5,1,10,0,100,0</column>
     </columns>
 </table>
