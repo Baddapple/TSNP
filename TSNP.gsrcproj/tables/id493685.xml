@@ -12,6 +12,6 @@
         <row id="8" name="Guard Regnerate Health"/>
     </rows>
     <columns>
-        <column id="0" name="" type="2" readonly="1">10,5,1,10,0,100,1,5,1</column>
+        <column id="0" name="" type="2" readonly="1">10,5,1,5,0,100,1,5,1</column>
     </columns>
 </table>
