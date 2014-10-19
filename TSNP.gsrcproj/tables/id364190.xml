@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<table version="1.000000" name="CostTable" numRows="10" numCols="2" flags="" tableType="">
+    <rows>
+        <row id="0" name="STR"/>
+        <row id="1" name="HP"/>
+        <row id="2" name="DEX"/>
+        <row id="3" name="SPD"/>
+        <row id="4" name="REC"/>
+        <row id="5" name=""/>
+        <row id="6" name=""/>
+        <row id="7" name=""/>
+        <row id="8" name=""/>
+        <row id="9" name=""/>
+    </rows>
+    <columns>
+        <column id="0" name="" type="3" readonly="0">1.150000,1.500000,1.500000,1.500000,1.500000,0.000000,0.000000,0.000000,0.000000,0.000000</column>
+        <column id="1" name="" type="3" readonly="0">1.000000,10.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000</column>
+    </columns>
+</table>
