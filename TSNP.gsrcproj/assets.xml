@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<assets PGFVersion="0.21" GSCVersion="0.12.9"><sounds/><images><image name="bg_platformer"><file name="bg_platformer.png"/><file premulAlpha="0" name="bg_platformer.png" size="1013340"/></image></images><behaviors/></assets>
+<assets PGFVersion="0.21" GSCVersion="0.12.9"><sounds/><images><image name="bg_platformer"><file premulAlpha="0" name="bg_platformer.png" size="1013340"/></image></images><behaviors/></assets>
