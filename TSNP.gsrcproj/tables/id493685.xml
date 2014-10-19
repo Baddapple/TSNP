@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<table version="1.000000" name="BodyCountTable" numRows="9" numCols="1" flags="" tableType="">
+<table version="1.000000" name="BodyCountTable" numRows="10" numCols="1" flags="" tableType="">
     <rows>
         <row id="0" name="Enemies Alive"/>
         <row id="1" name="Enemies Dead"/>
@@ -10,8 +10,9 @@
         <row id="6" name="Enemy Damage"/>
         <row id="7" name="Guard Damage"/>
         <row id="8" name="Guard Regnerate Health"/>
+        <row id="9" name="Population"/>
     </rows>
     <columns>
-        <column id="0" name="" type="2" readonly="1">10,5,1,5,0,100,5,10,1</column>
+        <column id="0" name="" type="2" readonly="1">10,5,1,5,0,100,5,10,1,100000</column>
     </columns>
 </table>
